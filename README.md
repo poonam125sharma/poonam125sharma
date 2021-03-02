@@ -2,7 +2,11 @@
 
 <p> I'm Pooja, a Fullstack Web Developer from <img src="https://www.flaticon.com/svg/vstatic/svg/206/206606.svg?token=exp=1614651965~hmac=b36a70b0dcd3770f2faed15dae8dd9cb" width="13"> <b>India</b> </p>
 
-<h3>Techs and Tools I code with</h3>
+### Connect with me 
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<h3>Techs and Tools I use and code with</h3>
 
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" class="rounded-1 mr-3 mt-1" width="64" height="64" alt="angular" />
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" class="rounded-1 mr-3 mt-1" width="64" height="64" alt="typescript" />
@@ -35,3 +39,5 @@
 </ul>
 
 <img src="https://github-readme-stats.vercel.app/api?username=poonam125sharma&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+[linkedin]: https://www.linkedin.com/in/pooja-sharma-1905b398/
