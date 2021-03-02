@@ -8,6 +8,7 @@
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" class="rounded-1 mr-3 mt-1" width="64" height="64" alt="typescript" />
   <img align="left" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" class="rounded-1 mr-3 mt-1" width="64" height="64" alt="laravel" />
   <img align="left" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/flutter/flutter.png" class="rounded-1 mr-3 mt-1" width="64" height="64" alt="flutter" />
+  <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" class="rounded-1 mr-3 mt-1" width="64" height="64" alt="dart" />
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" class="rounded-1 mr-3 mt-1" width="64" height="64" alt="javascript" />
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" class="rounded-1 mr-3 mt-1" width="64" height="64" alt="bootstrap" />
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" class="rounded-1 mr-3 mt-1" width="64" height="64" alt="css" />
