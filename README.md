@@ -41,3 +41,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=poonam125sharma&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 [linkedin]: https://www.linkedin.com/in/pooja-sharma-1905b398/
+
+<h3 class="mt-5 d-block">My Gists</h3>
+<p><a href="https://gist.github.com/poonam125sharma" target="_blank">Here</a></p>
