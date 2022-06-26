@@ -1,6 +1,6 @@
 ### Hey! Welcome to my page.
 
-<p> I'm Pooja, a Fullstack Web Developer from <img src="https://www.flaticon.com/svg/vstatic/svg/206/206606.svg?token=exp=1614651965~hmac=b36a70b0dcd3770f2faed15dae8dd9cb" width="13"> <b>India</b> </p>
+<p> I'm Pooja, Senior Software Engineer and Dapp Developer from <img src="https://www.flaticon.com/svg/vstatic/svg/206/206606.svg?token=exp=1614651965~hmac=b36a70b0dcd3770f2faed15dae8dd9cb" width="13"> <b>India</b> </p>
 
 ### Connect with me 
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
